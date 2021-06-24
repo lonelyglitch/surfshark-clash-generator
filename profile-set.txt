@@ -1,0 +1,6 @@
+port: 1050
+socks-port: 1080
+allow-lan: true
+mode: Rule
+log-level: silent
+external-controller: 127.0.0.1:9090
